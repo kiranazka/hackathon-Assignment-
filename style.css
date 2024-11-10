@@ -1,0 +1,74 @@
+
+        html {
+            font-family: 'Times New Roman', Times, serif, sans-serif;
+            font-weight: 400;
+            font-size: medium;
+            margin: 20px;
+            line-height: 1.6;
+            color: #ffffff;
+        
+        }
+        h1 {
+            font-weight: 400;
+            font-size: 2rem;
+        }
+        li {
+            list-style: none;
+
+        }
+        li,
+        p {
+            font-family:"jost", sans-serif;
+           font-size: 1.4rem;
+            
+        }
+        section {
+            font-family:"jost", sans-serif;
+            font-size: 1.4rem;
+        
+
+            
+        }
+        label {
+                font-family:jost, sans-serif ;
+                letter-spacing: 0.06;
+                line-height: 1.6;
+                font-size: 1.4rem;
+        }
+        progress{
+            height: 1.5rem;
+            width: 15rem;
+        }
+    
+     body {
+        font-family: 'Times New Roman', Times, serif, sans-serif;
+        font-weight: 400;
+        font-size: medium;
+        margin: 20px;
+        line-height: 1.6;
+        color: #000000;
+        background-color: rgb(255, 255, 255);
+        
+    }
+    h1 {
+        text-align: center;
+    }
+    .header, .section {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    .header img {
+        display: block;
+        margin: 0 auto;
+        border-radius: 100%;
+        width: 200px;
+        height: 200px;
+    }
+    
+    
+    footer {
+        text-align: center;
+        margin-top: 20px;
+        color: #020202;
+    }
+    
